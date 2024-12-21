@@ -21,7 +21,7 @@ To view the site locally:
 
 # 1. Clone this repository:
 # bash:
-git clone https://github.com/your-username/Portfolio_Site.git
+git clone https://github.com/Fathom-prog/Portfolio_Site.git
 
 # 2. Navigate to the project folder:
 # bash:
