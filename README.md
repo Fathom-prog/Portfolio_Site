@@ -10,7 +10,7 @@ Projects: Showcasing some of the projects I have worked on.
 Resume Download: A button to download my resume directly.
 Contact: Links to email me directly.
 Live Demo
-Visit my portfolio here: Your GitHub Pages Link
+Visit my portfolio here: ****
 
 # Technologies Used
 HTML
